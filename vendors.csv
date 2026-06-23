@@ -1,0 +1,21 @@
+vendor_id,vendor_name,category,has_cc,payment_terms_days
+V001,Acero del Sur S.A.,steel_materials,Yes,30
+V002,Construcciones Rápidas SRL,construction_services,Yes,45
+V003,Maquinaria Pesada SA,equipment_rental,Yes,30
+V004,Electricidad Total SRL,electrical_supplies,Yes,30
+V005,Ferretería Central SA,hardware_supplies,Yes,15
+V006,Transporte Logístico SRL,logistics,Yes,30
+V007,Pinturería Industrial SA,paint_materials,Yes,30
+V008,Hormigón Express SRL,concrete_materials,Yes,45
+V009,Seguridad Laboral SA,safety_equipment,Yes,30
+V010,Consultoría Técnica SRL,consulting_services,Yes,60
+V011,Catering Eventos SA,catering,No,0
+V012,Limpieza Total SRL,cleaning_services,No,0
+V013,Papelería Norte SA,office_supplies,No,0
+V014,Plomería Express SRL,plumbing_services,No,0
+V015,Señalización Vial SA,signage,No,0
+V016,Alquiler Containers SRL,container_rental,No,15
+V017,Jardinería Profesional SA,landscaping,No,0
+V018,Fumigación Total SRL,pest_control,No,0
+V019,Fotografía Industrial SA,photography,No,0
+V020,Calibración Técnica SRL,calibration_services,No,30
